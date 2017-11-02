@@ -6,9 +6,7 @@ public class PruebaComitRevert {
     public static void main(String[] args) {
         int x =0;
         if(x==2){
-            System.out.println("Hola");
-        }else{
-            System.out.println("Adios");
+            
         }
        //comentario
        //no quiero este comentario
