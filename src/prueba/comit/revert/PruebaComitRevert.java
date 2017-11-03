@@ -8,6 +8,10 @@ public class PruebaComitRevert {
         if(x==2){
             System.out.println("Hola");
         }
+        
+        if(x==1){
+            System.out.println("Experimento para probar nueva rama");
+        }
        
     }
     
